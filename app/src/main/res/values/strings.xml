@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JuegoDel21</string>
+    <string name="titulo">BLACKJACK</string>
+    <string name="pedir">Pedir una carta</string>
+    <string name="stop">Plantarse</string>
+    <string name="stats">Estadísticas</string>
+    <string name="restart">Reiniciar</string>
+    <string name="credits"> Humberto Canales Martínez © 2020</string>
+    <string name="error">Ocurrió un error al momento de hacer la petición al servidor. Inténtalo de nuevo.</string>
+</resources>
